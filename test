@@ -1,2 +1,6 @@
 Testing file in dev
+<<<<<<< HEAD
 changing in master
+=======
+content in QA
+>>>>>>> QA
